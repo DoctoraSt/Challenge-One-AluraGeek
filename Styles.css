@@ -1,0 +1,16 @@
+body{
+    background-color: var(--preto-branco, #FFF);
+}
+
+.busqueda{
+    border-radius: 20px;
+    background: var(--preto-05, #F5F5F5);
+}
+
+.acomodo{
+    flex-direction: row;
+}
+
+h3{
+    font-family: 'Courier New', Courier, monospace;
+}
